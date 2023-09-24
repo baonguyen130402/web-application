@@ -1,0 +1,269 @@
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Labrada&family=Public+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
+.container{
+	width: 1600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.row{
+	display: flex;
+	justify-content: space-between;
+}
+.logo{
+	background: #060606;
+	align-content: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+.nav ul{
+	font-size: 28px;
+	margin-right: 2.8%;
+	display: flex;
+	list-style: none;
+	align-content: center;
+	justify-content: space-between;
+}
+.nav ul a{
+	text-decoration: none;
+    color: #efefef;
+}
+.workas{
+	font-size:21px;
+	margin-left: 2%;
+}
+.devices{
+	margin:auto;
+	margin-left: 12%;
+}
+.services{
+	font-size:21px;
+	display: flex;
+	margin-left: auto;
+}
+.date{
+	font-size:14px;
+	font-weight:100;
+}
+.title a{
+	margin-left: 2%;
+	text-decoration: none;
+    color: #efefef;
+	font-size:15px;
+	font-weight:600;
+	
+}
+.box a{
+	text-decoration: none;
+    color: black;
+}
+.box-1 a{
+	text-decoration: none;
+    color: black;
+}
+.box-2 a{
+	text-decoration: none;
+    color: black;
+}
+.box-3 a{
+	text-decoration: none;
+    color: black;
+}
+.box-4 a{
+	text-decoration: none;
+    color: black;
+}
+.box-5 a{
+	text-decoration: none;
+    color: black;
+}
+.box-6 a{
+	text-decoration: none;
+    color: black;
+}
+.box-7 a{
+	text-decoration: none;
+    color: black;
+}
+.box-8 a{
+	text-decoration: none;
+    color: black;
+}
+.main {
+  padding: 120px 0 20px 60;
+  display: flex;
+  justify-content: space-between;
+}
+.right video{
+	width: 93%;
+	height: 50%;
+	margin-left: 2%;
+	align-content: center;
+	object-fit: contain;
+	border-radius: 10px 10px 10px 10px;
+}
+.night video{
+	width: 93%;
+	height: 50%;
+	margin-left: 2%;
+	align-content: center;
+	object-fit: contain;
+	border-radius: 10px 10px 10px 10px;
+}
+.sight video{
+	width: 93%;
+	height: 50%;
+	margin-left: 2%;
+	align-content: center;
+	object-fit: contain;
+	border-radius: 10px 10px 10px 10px;
+}
+.flycam ul{
+	list-style: none;
+	justify-content: space-between;
+}
+.box{
+	color: black;
+	background: white;
+	text-align: center;
+	margin-left: 2%;
+	width: 121px;
+	padding: 5px;
+	box-sizing: border-box;
+	border-radius: 25px 25px 25px 25px
+}
+.box-1{
+	color: black;
+	background: white;
+	text-align: center;
+	margin-left: 0.5%;
+	width: 70px;
+	padding: 5px;
+	box-sizing: border-box;
+	border-radius: 24px 24px 24px 24px
+}
+.box-2{
+	color: black;
+	background: white;
+	text-align: center;
+	margin-left: 2%;
+	width: 115px;
+	padding: 5px;
+	box-sizing: border-box;
+	border-radius: 24px 24px 24px 24px
+}
+.box-3{
+	color: black;
+	background: white;
+	text-align: center;
+	margin-left: 1%;
+	width: 110px;
+	padding: 5px;
+	box-sizing: border-box;
+	border-radius: 24px 24px 24px 24px
+}
+.box-4{
+	color: black;
+	background: white;
+	text-align: center;
+	margin-left: 2%;
+	width: 115px;
+	padding: 5px;
+	box-sizing: border-box;
+	border-radius: 24px 24px 24px 24px
+}
+.box-5{
+	color: black;
+	background: white;
+	text-align: center;
+	margin-left: 1%;
+	width: 110px;
+	padding: 5px;
+	box-sizing: border-box;
+	border-radius: 24px 24px 24px 24px
+}
+.box-6{
+	color: black;
+	background: white;
+	text-align: center;
+	margin-left: 2%;
+	width: 130px;
+	padding: 5px;
+	box-sizing: border-box;
+	border-radius: 24px 24px 24px 24px
+}
+.box-7{
+	color: black;
+	background: white;
+	text-align: center;
+	margin-left: 1%;
+	width: 130px;
+	padding: 5px;
+	box-sizing: border-box;
+	border-radius: 24px 24px 24px 24px
+}
+.box-8{
+	color: black;
+	background: white;
+	text-align: center;
+	margin-left: 1%;
+	width: 110px;
+	padding: 5px;
+	box-sizing: border-box;
+	border-radius: 24px 24px 24px 24px
+}
+.hinhanh{
+	margin-left: 1.8%;
+	margin-right: auto;
+}
+.thuoctinh{
+	display: flex;
+}
+.footer{
+	display: flex;
+	margin-left: 2%;
+}
+.thanksfor{
+	margin-left: 2%;
+	font-size: 30px;
+	font-weight: 700;
+}
+.social{
+	color:#606060;
+}
+.social-1{
+	color:#606060;
+	margin-left: 100%;
+}
+.chunho-1 a{
+	margin-left: 100%;
+	text-decoration: none;
+	color: #efefef;
+}
+.gioithieu{
+	font-size: 13px;
+	margin-left: 50%;
+	color:#606060;
+}
+.cc{
+	font-size: 13px;
+	margin-left: 50%;
+	color:#606060;
+}
+body{
+	font-family: 'Public Sans', sans-serif;
+	background: #060606;
+	color: white;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Libre Caslon Text', serif;
+	color: white;
+}
+
+h1{
+	font-size: 50px;
+	font-weight:500;
+	text-align: center;
+	line-height: 120%;
+	letter-spacing: 0%;
+}
+
